@@ -1,0 +1,2 @@
+# FlyffAutoClicker
+Flyff auto clicker
